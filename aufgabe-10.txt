@@ -1,0 +1,1 @@
+Wenn man eine datei mit git rm enfernt wird diese nicht mehr mit dem befehl restore zurückzukriegen sein, da sie in einen staged zustand gesteckt wird. man muss also --staged hinzufügen. git mv eignet sich besser, da
